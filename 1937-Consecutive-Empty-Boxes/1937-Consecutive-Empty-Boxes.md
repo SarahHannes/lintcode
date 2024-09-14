@@ -1,0 +1,1 @@
+<a href="https://www.lintcode.com/problem/1937/">1937 · Consecutive Empty Boxes</a>

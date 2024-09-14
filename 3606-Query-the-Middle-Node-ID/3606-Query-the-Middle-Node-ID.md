@@ -1,0 +1,1 @@
+<a href="https://www.lintcode.com/problem/3606/">3606 · Query the Middle Node ID</a>

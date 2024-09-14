@@ -1,0 +1,1 @@
+<a href="https://www.lintcode.com/problem/2799/">2799 · Creating a procedure for inserting data in bulk</a>
